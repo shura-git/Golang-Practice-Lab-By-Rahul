@@ -1,5 +1,12 @@
 # Golang-Practice-Lab-By-Rahul
 
+explanation : 
+	1.	The type of data expected by a function must be specified in the function parameters.
+	2.	But sometimes, we don’t always know the exact type ahead of time.
+	3.	Interfaces let us specify behavior instead of concrete types.
+	4.	This allows our code to work with different types that behave the same way.
+
+example : 
 
 Suppose we have a situation where we want to fetch user details using a user ID. Now, this user could come from different places — like a Postgres database, or maybe from a mock in memory when we are writing tests.
 
