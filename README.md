@@ -14,7 +14,7 @@ The goal is to build a **comprehensive Golang reference** while showcasing my co
 | 1  | Arrays | [feat/arrays-practice-01](https://github.com/devkarrahul2610/Golang-Practice-Lab-By-Rahul/tree/feat/arrays-practice-01) |
 | 2  | Slices | [feat/slices-practice-02](https://github.com/devkarrahul2610/Golang-Practice-Lab-By-Rahul/tree/feat/slices-practice-02) |
 | 3  | Maps | [feat/maps-practice-03](https://github.com/devkarrahul2610/Golang-Practice-Lab-By-Rahul/tree/feat/maps-practice-03) |
-| 4  | Concurrency (Goroutines & Channels) | [feat/channel-concurrency-pratice-04](https://github.com/devkarrahul2610/Golang-Practice-Lab-By-Rahul/tree/feat/channel-concurrency-pratice-04) |
+| 4  | Concurrency (Goroutines & Channels) | [feat/channel-concurrency-pratice-04](https://github.com/devkarrahul2610/Golang-Practice-Lab-By-Rahul/tree/feat/channel-concurrancy-pratice-04) |
 | 5  | Methods & Functions | *(coming soon)* |
 | 6  | Interfaces & Composition | *(coming soon)* |
 | 7  | HTTP & Web Development | *(coming soon)* |
